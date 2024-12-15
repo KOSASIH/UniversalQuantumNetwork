@@ -23,6 +23,11 @@
 [![Quantum Network Compliance Certification](https://img.shields.io/badge/Quantum%20Network%20Compliance%20Certification-Quantum%20Compliance%20Council-brightgreen.svg)](https://www.qcc.org/certification)  
 [![Quantum Network Project Manager](https://img.shields.io/badge/Quantum%20Network%20Project%20Manager-Quantum%20Project%20Management%20Institute-red.svg)](https://www.qpmi.org/certification)  
 [![Quantum Network Ethics Certification](https://img.shields.io/badge/Quantum%20Network%20Ethics%20Certification-Quantum%20Ethics%20Board-purple.svg)](https://www.qeb.org/certification)  
+[![Quantum Computing Fundamentals Certification](https://img.shields.io/badge/Quantum%20Computing%20Fundamentals%20Certification-Quantum%20Fundamentals%20Institute-blue.svg)](https://www.qfi.org/certification)  
+[![Quantum Network Technology Specialist](https://img.shields.io/badge/Quantum%20Network%20Technology%20Specialist-Quantum%20Technology%20Institute-orange.svg)](https://www.qti.org/certification)  
+[![Quantum Network Data Analyst](https://img.shields.io/badge/Quantum%20Network%20Data%20Analyst-Quantum%20Data%20Institute-brightgreen.svg)](https://www.qdi.org/certification)  
+[![Quantum Network Systems Engineer](https://img.shields.io/badge/Quantum%20Network%20Systems%20Engineer-Quantum%20Systems%20Engineering%20Society-red.svg)](https://www.qses.org/certification)  
+[![Quantum Network Research Fellow](https://img.shields.io/badge/Quantum%20Network%20Research%20Fellow-Quantum%20Research%20Council-purple.svg)](https://www.qrc.org/certification)  
 
 [![ISC2 Certified](https://img.shields.io/badge/ISC2-Certified-brightgreen.svg)](https://www.isc2.org/Certifications)
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-brightgreen.svg)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
