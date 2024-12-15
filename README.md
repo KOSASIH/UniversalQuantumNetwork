@@ -8,7 +8,6 @@
 [![Certified Quantum Network Professional](https://img.shields.io/badge/Certified%20Quantum%20Network%20Professional-International%20Quantum%20Network%20Association-brightgreen.svg)](https://www.iqna.org/certification)
 [![Advanced Quantum Networking Certification](https://img.shields.io/badge/Advanced%20Quantum%20Networking%20Certification-Quantum%20Networking%20Institute-red.svg)](https://www.qni.org/certification)
 [![Quantum Communication Specialist](https://img.shields.io/badge/Quantum%20Communication%20Specialist-Quantum%20Communication%20Society-purple.svg)](https://www.qcs.org/certification)
-``` ```
 [![ISC2 Certified](https://img.shields.io/badge/ISC2-Certified-brightgreen.svg)](https://www.isc2.org/Certifications)
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-brightgreen.svg)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![Microsoft Azure Developer Associate](https://img.shields.io/badge/Microsoft-Azure_Developer_Associate-brightgreen.svg)](https://learn.microsoft.com/en-us/certifications/azure-developer/)
