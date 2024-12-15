@@ -1,3 +1,11 @@
+![Microsoft Certified Professional](https://img.shields.io/badge/Microsoft-Certified_Professional-brightgreen)
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-brightgreen)
+![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud-Certified-brightgreen)
+![Cisco Certified Network Associate](https://img.shields.io/badge/Cisco-Certified_Network_Associate-brightgreen)
+![Scrum Master Certified](https://img.shields.io/badge/Scrum_Master_Certified-brightgreen)
+![Certified Kubernetes Administrator](https://img.shields.io/badge/Certified_Kubernetes_Administrator-brightgreen)
+![PMP Certified](https://img.shields.io/badge/PMP-Certified-brightgreen)
+
 # UniversalQuantumNetwork
 The Universal Quantum Network (UQN) project aims to develop a groundbreaking global and interstellar communication framework that harnesses the principles of quantum entanglement, superposition, and advanced artificial intelligence. This repository serves as a collaborative platform for researchers, developers, and enthusiasts to contribute to the design and implementation of a seamless, ultra-secure, and instantaneous communication system. The UQN seeks to transcend the limitations of classical networks, enabling real-time data exchange across vast distances, including interplanetary and interstellar scales. Join us in exploring the future of communication and computation!
 
