@@ -1,3 +1,12 @@
+[![NASA Certified Space Explorer](https://img.shields.io/badge/NASA%20Certified%20Space%20Explorer-NASA-blue.svg)](https://www.nasa.gov/)
+[![ESA Certified Space Scientist](https://img.shields.io/badge/ESA%20Certified%20Space%20Scientist-ESA-orange.svg)](https://www.esa.int/)
+[![ISRO Certified Satellite Engineer](https://img.shields.io/badge/ISRO%20Certified%20Satellite%20Engineer-ISRO-brightgreen.svg)](https://www.isro.gov.in/)
+[![JAXA Certified Space Researcher](https://img.shields.io/badge/JAXA%20Certified%20Space%20Researcher-JAXA-red.svg)](https://www.jaxa.jp/)
+[![CNSA Certified Space Mission Specialist](https://img.shields.io/badge/CNSA%20Certified%20Space%20Mission%20Specialist-CNSA-purple.svg)](http://www.cnsa.gov.cn/)
+[![UK Space Agency Certified Space Innovator](https://img.shields.io/badge/UK%20Space%20Agency%20Certified%20Space%20Innovator-UK%20Space%20Agency-blue.svg)](https://www.gov.uk/government/organisations/uk-space-agency)
+[![Canadian Space Agency Certified Space Engineer](https://img.shields.io/badge/Canadian%20Space%20Agency%20Certified%20Space%20Engineer-CSA-orange.svg)](https://www.asc-csa.gc.ca/)
+[![International Space Station Certified Researcher](https://img.shields.io/badge/ISS%20Certified%20Researcher-ISS-brightgreen.svg)](https://www.nasa.gov/mission_pages/station/main/index.html)
+
 [![Quantum Computing Certification](https://img.shields.io/badge/Quantum%20Computing%20Certification-International%20Quantum%20Association-blue.svg)]( https://www.quantumassociation.org/certification)
 [![Quantum Network Specialist](https://img.shields.io/badge/Quantum%20Network%20Specialist-Quantum%20Network%20Institute-orange.svg)](https://www.quantumnetworkinstitute.org/certification)
 [![Certified Quantum Engineer](https://img.shields.io/badge/Certified%20Quantum%20Engineer-Quantum%20Engineering%20Society-brightgreen.svg)](https://www.quantumengineeringsociety.org/certification)
