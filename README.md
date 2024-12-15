@@ -8,6 +8,12 @@
 [![Certified Quantum Network Professional](https://img.shields.io/badge/Certified%20Quantum%20Network%20Professional-International%20Quantum%20Network%20Association-brightgreen.svg)](https://www.iqna.org/certification)
 [![Advanced Quantum Networking Certification](https://img.shields.io/badge/Advanced%20Quantum%20Networking%20Certification-Quantum%20Networking%20Institute-red.svg)](https://www.qni.org/certification)
 [![Quantum Communication Specialist](https://img.shields.io/badge/Quantum%20Communication%20Specialist-Quantum%20Communication%20Society-purple.svg)](https://www.qcs.org/certification)
+[![UQN Quantum Network Expert](https://img.shields.io/badge/UQN%20Quantum%20Network%20Expert-Universal%20Quantum%20Network-blue.svg )](https://www.uqn.org/expert-certification)  
+[![Quantum Network Analyst](https://img.shields.io/badge/Quantum%20Network%20Analyst-Quantum%20Analysis%20Institute-orange.svg)](https://www.qai.org/certification)  
+[![Certified Quantum Network Technician](https://img.shields.io/badge/Certified%20Quantum%20Network%20Technician-International%20Quantum%20Technicians%20Association-brightgreen.svg)](https://www.iqta.org/certification)  
+[![Quantum Networking Fundamentals](https://img.shields.io/badge/Quantum%20Networking%20Fundamentals-Quantum%20Fundamentals%20Institute-red.svg)](https://www.qfi.org/certification)  
+[![Quantum Network Security Certification](https://img.shields.io/badge/Quantum%20Network%20Security%20Certification-Quantum%20Security%20Council-purple.svg)](https://www.qsc.org/certification)  
+
 [![ISC2 Certified](https://img.shields.io/badge/ISC2-Certified-brightgreen.svg)](https://www.isc2.org/Certifications)
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-brightgreen.svg)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![Microsoft Azure Developer Associate](https://img.shields.io/badge/Microsoft-Azure_Developer_Associate-brightgreen.svg)](https://learn.microsoft.com/en-us/certifications/azure-developer/)
