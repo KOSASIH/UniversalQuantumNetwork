@@ -13,6 +13,11 @@
 [![Certified Quantum Network Technician](https://img.shields.io/badge/Certified%20Quantum%20Network%20Technician-International%20Quantum%20Technicians%20Association-brightgreen.svg)](https://www.iqta.org/certification)  
 [![Quantum Networking Fundamentals](https://img.shields.io/badge/Quantum%20Networking%20Fundamentals-Quantum%20Fundamentals%20Institute-red.svg)](https://www.qfi.org/certification)  
 [![Quantum Network Security Certification](https://img.shields.io/badge/Quantum%20Network%20Security%20Certification-Quantum%20Security%20Council-purple.svg)](https://www.qsc.org/certification)  
+[![Quantum Network Researcher](https://img.shields.io/badge/Quantum%20Network%20Researcher-Quantum%20Research%20Institute-blue.svg)](https://www.qri.org/certification)  
+[![Certified Quantum Network Developer](https://img.shields.io/badge/Certified%20Quantum%20Network%20Developer-Quantum%20Development%20Society-orange.svg)](https://www.qds.org/certification)  
+[![Quantum Network Operations Certification](https://img.shields.io/badge/Quantum%20Network%20Operations%20Certification-Quantum%20Operations%20Institute-brightgreen.svg)](https://www.qoi.org/certification)  
+[![Quantum Network Design Specialist](https://img.shields.io/badge/Quantum%20Network%20Design%20Specialist-Quantum%20Design%20Council-red.svg)](https://www.qdc.org/certification)  
+[![Quantum Network Integration Certification](https://img.shields.io/badge/Quantum%20Network%20Integration%20Certification-Quantum%20Integration%20Institute-purple.svg)](https://www.qii.org/certification)  
 
 [![ISC2 Certified](https://img.shields.io/badge/ISC2-Certified-brightgreen.svg)](https://www.isc2.org/Certifications)
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-brightgreen.svg)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
